@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quake Report App
 ===================================
 
@@ -50,3 +51,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# QuakeReport
+This app displays the magnitude, location, date and time of 10 earthquake occurrences of minimum magnitude of 6.0
+>>>>>>> e136a542a288068027d849034ab384208c61e669
